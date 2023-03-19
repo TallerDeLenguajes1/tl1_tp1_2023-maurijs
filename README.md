@@ -1,7 +1,7 @@
 # tl1_tp1_2023-maurijs
 # respuesta agregada
-# Respuesta Pto 2
-<!-- .gitignore es un archivo de texto que le indica a git que archivos o carpetas ignorar.
+** Respuesta Pto 2 **
+ .gitignore es un archivo de texto que le indica a git que archivos o carpetas ignorar.
 Generalmente se coloca en el directorio raiz de un proyecto. Tambien puedes crear un archivo
 global .gitignore, y cualquier entrada en ese archivo se ignorara en todos tus repositorios de Git.
 
@@ -16,4 +16,6 @@ ejemplos :
 node_modules
 
 # Ignora todos los archivos de texto
-*.txt -->
+*.txt
+
+
